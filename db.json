@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "name": "site da empresa",
+      "budget": "65500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "PROJETO X",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 2300,
+      "services": [
+        {
+          "name": "dev front-end",
+          "cost": "2300",
+          "description": "contratar alguem",
+          "id": "85435416-cfc2-4133-b4f3-a53d919089a9"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Projeto Vue.js",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "sistema de agendamento",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
