@@ -1,50 +1,28 @@
 {
   "projects": [
     {
-      "name": "site da empresa",
-      "budget": "65500",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "PROJETO X",
       "budget": "10000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 3070,
+      "cost": 3500,
       "services": [
         {
-          "name": "dev front-end",
-          "cost": "2300",
-          "description": "contratar alguem",
-          "id": "85435416-cfc2-4133-b4f3-a53d919089a9"
+          "name": "dev full-stack",
+          "cost": "2400",
+          "description": "Contratar um desenvolvedor full-stack",
+          "id": "066ce509-b192-4cfb-82c0-61a22186dcbd"
         },
         {
-          "name": "dev php",
-          "cost": "770",
-          "description": "contratar um desenvolvedor php",
-          "id": "6081bd1e-27b2-4155-818a-36f26c04ba32"
+          "name": "designer",
+          "cost": "1100",
+          "description": "contratar um designer",
+          "id": "cd55d744-1c5f-4446-a68a-c48c8310bc84"
         }
       ],
       "id": 2
-    },
-    {
-      "name": "Projeto Vue.js",
-      "budget": "5000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
     },
     {
       "name": "sistema de agendamento",
@@ -53,16 +31,33 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 1100,
+      "cost": 2200,
       "services": [
         {
           "name": "Dev front-end",
           "cost": "1100",
           "description": "Contratar um desenvolvedor front-end",
           "id": "b06446f7-df71-4d46-bbb5-c471c05eb1bd"
+        },
+        {
+          "name": "dev back-end",
+          "cost": "1100",
+          "description": "Contratar um desenvolvedor back-end",
+          "id": "37fa732c-9eb7-4ea1-baaf-cac5c5a96b23"
         }
       ],
       "id": 6
+    },
+    {
+      "name": "Site da empresa",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
     }
   ],
   "categories": [
