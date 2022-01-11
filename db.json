@@ -18,13 +18,19 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 2300,
+      "cost": 3070,
       "services": [
         {
           "name": "dev front-end",
           "cost": "2300",
           "description": "contratar alguem",
           "id": "85435416-cfc2-4133-b4f3-a53d919089a9"
+        },
+        {
+          "name": "dev php",
+          "cost": "770",
+          "description": "contratar um desenvolvedor php",
+          "id": "6081bd1e-27b2-4155-818a-36f26c04ba32"
         }
       ],
       "id": 2
@@ -47,8 +53,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1100,
+      "services": [
+        {
+          "name": "Dev front-end",
+          "cost": "1100",
+          "description": "Contratar um desenvolvedor front-end",
+          "id": "b06446f7-df71-4d46-bbb5-c471c05eb1bd"
+        }
+      ],
       "id": 6
     }
   ],
